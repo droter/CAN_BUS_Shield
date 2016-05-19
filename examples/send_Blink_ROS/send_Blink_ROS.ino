@@ -4,7 +4,7 @@
 // Run receive_Blink on the other
 // ***ROS commands to be followe***//
 // roscore
-// rosrun roial_python serial_node.py /dev/ttyACM1 _baud:=57600
+// rosrun rosserial_python serial_node.py /dev/ttyACM1 _baud:=57600
 // rostopic pub toggle_led std_msgs/Empty -r 100
 // Jaghvi: jaghvim@andrew.cmu.edu
 
